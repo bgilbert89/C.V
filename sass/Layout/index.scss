@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background-color: black;
+    font-family: "Lucida Sans";
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    height: 100em;
+    background-color: #041b21;
+}
+.partie1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.partie2 {
+    display: flex;
+    flex-direction: row;
+}
+h1 {
+    display: block;
+    padding-top: 5%;
+    text-align: center;
+    color: white;
+}
+h2 {
+    color: #3e817a;
+}
+h3 {
+    color: white;
+}
+p {
+    color: white;
+}
